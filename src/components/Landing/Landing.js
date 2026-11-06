@@ -144,7 +144,7 @@ function Landing() {
               {headerData.resumePdf && (
                 <a
                   href={headerData.resumePdf}
-                  download="resume"
+                  download="Usama_Iqbal_Resume.pdf"
                   target="_blank"
                   rel="noreferrer"
                 >
